@@ -1,0 +1,6 @@
+{
+  "name": "S.H. AstroBot AI",
+  "description": "Cerebro inteligente y centro de control para robot físico de escritorio con Gemini AI, visión y reconocimiento facial, conversación por voz, modo Always Active (Dummy) y control/simulador ESP32-S3.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
