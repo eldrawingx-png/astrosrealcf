@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Visor frame -->
+    <path
+        android:fillColor="#040812"
+        android:strokeColor="#22D3EE"
+        android:strokeWidth="2.5"
+        android:pathData="M24,39C24,32.92 28.92,28 35,28H73C79.08,28 84,32.92 84,39V69C84,75.08 79.08,80 73,80H35C28.92,80 24,75.08 24,69V39Z" />
+    <!-- Left luminous cyan AstroBot eye -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M36,48C36,44.13 39.13,41 43,41C46.87,41 50,44.13 50,48V60C50,63.87 46.87,67 43,67C39.13,67 36,63.87 36,60V48Z" />
+    <!-- Right luminous cyan AstroBot eye -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M58,48C58,44.13 61.13,41 65,41C68.87,41 72,44.13 72,48V60C72,63.87 68.87,67 65,67C61.13,67 58,63.87 58,60V48Z" />
+</vector>
